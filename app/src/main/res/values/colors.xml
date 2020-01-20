@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#111</color>
+    <color name="colorPrimaryDark">#FFF</color>
+    <color name="colorAccent">#ea3732</color>
+    <color name="font_12_or_15dp_color">#52575C</color>
+    <color name="text_color">#de212121</color>
+    <color name="pharm_learn_bg_color">#f0f0f0</color>
+</resources>
